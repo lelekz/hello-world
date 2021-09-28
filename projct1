@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marathon</title>
+    <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+    <header class="container">
+
+        <div>
+            <a href="http:/www.google.com" target="_parent">
+                <img src="./img/logo.svg" alt="">
+            </a>
+        </div>
+    
+        <nav>
+            <ul>
+                <li>
+                    <a href="">
+                    Home
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                    Product
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                    FAQ
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                    Contact
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div>
+            <h6>
+                Restaurant app
+            </h6>
+            <h1>Why stay hungry when <br> you can order foem Eats</h1>
+            <p>Order in exchange for hunger</p>
+            <div>
+                <button class="button">Btn1</button>
+                <button>Btn2</button>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div>
+            <h4>
+                Order Now Copyright
+            </h4>
+            <dl type="1">
+            <dt>Rtrythhjg</dt>
+            <dd>vvjhjkhjkhkjhkjhkjhkhhjkhjkhkjh</dd>
+            <dt>hgbhjgj</dt>
+            <dd>gkhgfdfjgkhdfjkghdfjkghkjdfhgkjdfgd</dd>
+            <dt>mnbbhjb</dt>
+            <dt>jkhjkhgjhv</dt>
+
+            </dl>
+
+
+
+            <p>Available on your favorite store. Start your premium experience now</p>
+        </div>
+        <div>
+            <button class="button">Playstore</button>
+        <button>App store</button>
+        </div>
+        
+    </section>
+
+    <table border="2">
+        <tr align="center"><th>zxtqrf</th>
+        <th>ячейка</th>
+        <th>ячейка</th></tr>
+        <tr><td>zxtqrf</td>
+        <td>ячейка</td>
+        <td>ячейка</td></tr>
+        <tr><td>zxtqrf</td>
+        <td>ячейка</td>
+        <td>ячейка</td></tr>
+        <tr><td>zxtqrf</td>
+        <td>ячейка</td>
+        <td>ячейка</td></tr>
+        
+        
+        
+        </table>
+        
+
+
+    <footer>
+        <div>
+            <a href="">
+                <img src="./img/logo.svg" alt="">
+            </a>
+        </div>
+        <p>Copyright 2020 Bella Onojie.com</p>
+        <p>Copyright 2020 Bella Onojie.com</p>
+       
+    </footer>
+  
+
+
+</body>
+</html>
