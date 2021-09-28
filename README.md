@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi there!
+
+It's the first readme file I've ever added.
